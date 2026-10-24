@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 260" role="img" aria-labelledby="title desc">
+  <title id="title">Rooms in Town roofline mark</title>
+  <desc id="desc">A white line drawing of connected town houses beneath a continuous roofline.</desc>
+  <g fill="none" stroke="#f4ede3" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M28 218V157h46v61M47 157V117h55l30 28 56-68 81 86 92-119 145 167v-69h74v76"/>
+    <path d="M91 218v-38h42v38M209 218v-58h45v58M319 218v-35h40v35M434 218v-55h42v55M535 218v-38h42v38"/>
+    <path d="M147 218v-31h26v31M280 218v-25h25v25M380 218v-43h29v43M494 218v-28h25v28"/>
+    <path d="M114 119V83h47v48M405 96V53h55v104"/>
+  </g>
+</svg>
